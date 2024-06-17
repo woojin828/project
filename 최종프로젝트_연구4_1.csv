@@ -1,0 +1,243 @@
+﻿"4, 213-219 (2020)Vol.33, No."
+DOI: http://dx.doi.org/10.7234/composres.2020.33.4.213
+"ISSN 2288-2103(Print), ISSN 2288-2111(Online)  "
+Paper
+친환경 소재를 첨가한 천연섬유 복합재의 제조 및 기계적 물성 평가 연구
+김재철* · 이동우
+†
+** · 프라바카** · 송정일*
+"A Study on the Fabrication and Mechanical Properties Evaluation of "
+Natural Fiber Composites added Eco-friendly Materials
+"Jae-Cheol Kim*, Dong-Woo Lee**, M.N. Prabhakar"
+†
+"**, Jung-Il Song*"
+"ABSTRACT: "
+"Recently, global facing environmental issues have been raised caused by plastic waste. Hence, increasing"
+"thedemandforinterestinenvironmentallyfriendlymaterials.Inthisresearchonengineeringcompositerow,"
+"materials also replacing the synthetic reinforcement by introducing natural fibers. However, focus on the strength and"
+"interfacialadhesionbetweenmatrixandreinforcementisveryessentialnaturalfibercomposite,whichisin"
+insufficientintheliterature.Therearenumberofapproachesforimprovingthemechanicalstrengthofthe
+"composites, one of the common methods is to reinforce additive nanoparticles. The present investigation, bio-additives"
+"were synthesized utilizing bio-waste, cheap, bio-degradable sea-weed powder that could replace expensive nanomaterials"
+and reinforced into the CFRP composite through Hand lay-up followed by a vacuum process. Mechanical properties
+were evaluated and analyzed through microanalysis. The results concluded that synthesized additives are effective for
+"improving mechanical properties such as tensile, flexural, impact, and shear strength. Overall, the results confirmed"
+that the fabricated composites have potential applications in the field of engineering applications.
+"초록: "
+최근 플라스틱 폐기물로 인한 환경 문제가 이슈화되면서 친환경 소재에 대한 관심이 점점 증가하고 있으
+"며, 이에 따라 천연섬유를 활용한 복합재의 연구가 지속적으로 이루어지고 있지만 친환경 복합재의 강도나 계면"
+접착력에 대한 연구가 많이 부족한 실정이다. 복합재료의 강도나 계면 접착력을 향상시키는 방법들 중 한 가지 방
+법은 나노 입자를 첨가하여 기계적 물성을 향상시키는 방법이 있다. 본 연구에서는 기존에 사용되는 고가의 나노
+"소재를 대체할 수 있는 친환경적이면서 경제적인 천연섬유를 해초로부터 추출하여 첨가제를 제조하고, 복합재료"
+"의 제조 및 기계적 특성평가를 수행하였다. 시험결과 제조한 첨가제가 복합재료의 인장, 굽힘, 충격 등의 물성 향"
+상에 효과가 있을 뿐만 아니라 친환경성과 경제성도 가지고 있어 후속연구를 통해 다양한 분야에 적용할 수 있을
+"것이라 기대된다. "
+"Key Words: "
+"해초(Seaweed), 셀룰로오스 나노 섬유(Cellulose Nano Fiber), 천연섬유 복합재료(Natural fiber composite"
+"materials), 기계적 물성(Mechanical Property)"
+경 문제가 점점 심각해지고 있다. 플라스틱은 분해되는데1. 서론
+"수많은 시간이 소요되며, 분류가 제대로 되지 않는다면 재"
+활용도 힘든 실정이다. 또한 플라스틱 폐기물로 인하여 동매년 발생되는 엄청난 양의 플라스틱 폐기물로 인한 환
+"Received 25 March 2020, received in revised from 3 August 2020, accepted 4 August 2020"
+"*Department of Mechanical Engineering, Changwon National University, Changwon 51140, Korea "
+†
+"*Department of Mechanical Engineering, Changwon National University, Changwon Korea, Corresponding author (E-mail: jisong@changwon.ac.kr)"
+"**The Research Institute of Mechatronics, Changwon National University, Changwon 51140, Korea "
+"214Jae-Cheol Kim, Dong-Woo Lee, M.N. Prabhakar, Jung-Il Song"
+식물의 생태계가 위협받고 있다. 폐기된 플라스틱은 자연염기성 용액이 필요하다. 따라서 본 연구에서는 강한 염기
+"상태에서 마이크로 플라스틱(Micro Plastic)으로 분해되며,성 용액인 수산화나트륨(NaOH)를 사용하여 셀룰로오스를"
+추출하고자 하였다. 수산화나트륨은 물에 용해시 Na+와 OH-이를 플랑크톤이 섭취해 먹이사슬을 따라 최종적으로 인
+간이 섭취하게 되어 인체의 건강을 위협할 것으로 예상되로 나누어지면서 염기성 용액으로 변한다. 증류수에 수산
+고 있다[1-3]. 이러한 마이크로플라스틱의 발생을 줄이기,"wt%의 용량만큼 넣은 후 잘 용해시키고, 표화나트륨을 5"
+"위해 다양한 연구가 진행중이며, 이중 가장 떠오르고 있는",백한 해초를 넣고 8시간 동안 끓여 섬유소(Cellulose)를 추
+방법 중 하나는 생분해성이 있는 친환경 수지 및 친환경 복,출하였다. 가열 중에 염기성 용액에 의해 해초에 있던 리그
+합재료를 개발하는 것이다[4]. 그러나 친환경 소재인 천연,"닌, 펙틴 등이 분리되어 셀룰로오스를 얻었으며, 추출한 셀"
+"섬유는 다른 탄소섬유, 유리섬유, 케블라섬유 등에 비하여",룰로오스의 수소 이온 농도 지수(pH)를 중성으로 맞추기
+"기계적 강도가 떨어지고, 친수성으로 인해 소수성을 지닌",위해 깨끗한 증류수로 3~4번 이상 반복 세척 작업을 진행
+수지와의 계면접착 강도가 떨어져 강도가 약해 다양한 분,했다. 반복 세척 작업에서 추출한 셀룰로오스를 필터링하
+"야에 활용하기가 어렵다는 단점이 있으며, 이를 해결하기",기 위해서 진공 필터링 장비를 사용하였다. 필터는 유리섬
+위하여 다양한 연구가 진행되어왔다.,"유로 제작되어 µm의 단위까지 필터링이 가능하며, 진공압"
+천연섬유 복합재료의 기계적 물성을 향상시키기 위한 여,을 이용하여 보다 빠르게 해초 셀룰로오스를 추출할 수 있
+"러 가지 방법 중 하나로,탄소나노튜브(CNT),그래핀",었다. 중화 작업과 필터링을 모두 거친 해초 셀룰로오스는
+"(Graphene),나노셀룰로오스섬유(Cellulose Nano Fiber,",에탄올에 분산시킨 뒤 진공 오븐을 통해 건조하여 최종적
+CNF)등과 같은 나노 첨가제(additive)를 섬유표면에 결합,으로 해초 셀룰로오스 첨가제의 추출을 완료하였다. Fig. 1
+시켜 수지와의 접촉 표면적을 넓힘으로써 섬유와 수지간,은 해초로부터 셀룰로오스를 추출하는 과정을 사진으로 나
+"의 계면접착력을 향상시키는 연구가 있었지만[5], 나노 첨","타낸 것이며, Fig. 2는 해초에서 셀룰로오스를 추출하기 전"
+가제의 비용 측면에서 경제성이 떨어진다는 문제점이 있다.,"과 후를 비교한 것이다. "
+따라서 본 연구에서는 기존 사용되는 고가의 나노 첨가,
+제를 대체할 친환경 소재를 천연소재인 해초(Sea weed)로,
+"부터 추출하는 방법을 제안하고, 이를 첨가제로 활용하여",
+기계적 물성이 향상된 천연섬유 복합재료를 제조하였다.,
+그 후 추출한 첨가제가 기계적 물성에 미치는 영향을 평가,
+"하기 위하여 인장, 압축, 낙추 충격 등 다양한 시험을 수행",
+"하고 그 영향을 검토함으로써, 최종적으로 해초로부터 추",
+출한 나노섬유의 친환경 소재 및 복합재료 분야에 대한 적,
+용가능성을 알아보고자 하였다.,
+2. 연구 방법,
+2.1 나노섬유의 추출,
+천연소재인 해초로부터 셀룰로오스를 추출함으로써 첨,
+가제를 제조하기 위한 연구를 수행하였다. 사용한 해초는,
+"시중에서 쉽게 구할 수 있는 천연재료로, 천연 해초를 일광",
+"건조를 통해 건조한 우뭇가사리를 사용하였다. 먼저 ",
+"","The extraction process of seaweed celluloseFig. 1. "
+해초,
+에 있는 불순물을 제거하기 위해 깨끗한 증류수에 불린 후,
+끓는 물에 충분히 가열 및 세척함으로써 불순물을 완전히,
+제거한다. 불순물 제거를 마친 해초에서 셀룰로오스를 추,
+출하기 전에 해초 본연의 색을 제거하기 위해서 산소계 표,
+백제(Oxygen Bleaching)을 사용하여 표백 작업을 진행하였,
+다. 염소계 표백제(Chlorine Bleach)는 사용할 시 표백제에,
+서 염소성분이 발생하면서 섬유를 손상시킬 수 있기 때문,
+에 사용하지 않았다. 표백작업을 마친 뒤 증류수를 사용하,
+"여 깨끗하게 세척하여, 흰색으로 표백된 해초를 얻었다. 해",
+초에서 셀룰로오스를 추출하기 위해서는 양잿물이나 강한,"Extracted seaweed nano fiber: (a) Before, and (b) After Fig. 2. "
+A Study on the Fabrication and Mechanical Properties Evaluation of Natural Fiber Composites added Eco-friendly Materials,215
+2.2 복합재료 제조,
+2.2.1 사용 재료,
+본 연구에서 복합재료를 제조하기 위하여 황마 직조섬,
+"유(Jute fabric, 대하교역, 한국) 를 보강재로 사용하였다. 황",
+마섬유의 특징으로는 옅은 황색빛을 띠고 있으며 섬유의,
+직경은 약 100~200µm이다. 기지재로는 비닐에스터(KRF-,
+"1031, 호제 화학, 한국) 수지를 사용하였으며 부가적으로 경",
+Peroxide와 촉진제 화제 Methyl Ethyl Ketone Cobalt,
+Naphthalate를 수지의 경화에 사용하였다. 섬유와 수지의 계,
+"","Schematic of hand-layup methodFig. 4. "
+"면접착력을 향상시키기 위해 첨가제를 사용하였는데, 각각",
+해초에서 직접 추출한 해초 셀룰로오스(Sea Weed cellulose,
+"fiber, SW) 섬유와 대조군인 상용 나노셀룰로오스(CNF,","법에 비해 섬유 체적율이 떨어지는 단점이 있지만, 수지주"
+"ANPOLY, 한국)를 선정하였다. 이 두 가지 첨가제를 이용하","입 방식의 성형공정을 사용할 경우, 수지에 있는 첨가제가"
+"여 천연섬유 복합재료를 제조하고 인장, 굽힘 등 다양한 시",섬유에 의해 필터링(Filtering)되는 현상이 발생하기 때문에
+험을 통하여 첨가제가 기계적 물성에 미치는 영향을 비교,대안으로써 선택되었다. 핸드-레이업 공정을 사용하여 복
+분석하였다.,"합재료를 제조할 경우, 인퓨전 공정에 비하여 첨가제를 고"
+"",르게 분산시킬 수 있다.
+2.2.2 첨가제 분산 및 핸드-레이업 공정,"구체적인 핸드-레이업 공정의 절차는, 먼저 6mm의 알루"
+"복합재료를 제조하기 전, 해초로부터 추출한 SW와 대조",미늄 평판을 사포를 사용하여 한 면을 평평하게 연마 및 세
+"군으로 사용할 CNF를 각각 기지재 내에 분산시키기 위해,","척한다. 그 후, 테플론 시트(TEFLON Sheet)를 사용하여 연"
+3 Roll Mill 장비를 이용했다. 3 Roll Mill은 3개의 롤이 서로,"마한 알루미늄 평판에 붙이고, 주위에 실란트 테이프를 두"
+"다른 방향과 속력으로 회전하면서, 롤과 롤 사이에서 발생",른다. 그 위에 직조형태의 황마 천연섬유 4장을 적층시키
+하는 전단력을 이용하여 첨가제를 기지재 내에 분산시키,"고, 적층과정에서 섬유와 섬유 사이 층에 충분히 적혀지도"
+"는 장비이다. 전단력을 사용하여 분산 시, 첨가제가 뭉쳐져","록 수지를 채워준 후, Fig. 4와 같이 롤러를 사용하여 수지"
+"있을 경우에도 전단력에 의한 분쇄가 가능하며, 일정한 힘",내부의 기포를 제거하고 섬유가 고르게 펴지도록 하였다.
+으로 효과적으로 첨가제 분산이 가능하다. 롤의 최고 회전,그 후 충분히 적셔진 황마 직조섬유 4장 위에 잉여 수지가
+"속도는 200RPM으로 설정하였고, 롤 사이의 간격을 15µm",흡수될 수 있도록 브리더를 적층한 뒤 필름을 덮어 진공상
+에서 점점 좁히면서 제조한 해초 셀룰로오스와 CNF가 기,"태를 만들었으며, 수지가 경화될 수 있도록 경화 오븐을 사"
+지재 내에 충분히 분산되도록 4번씩 반복하여 작업을 진행,
+"",용하여 80oC의 온도로 2시간동안 가열시켰다.
+"하였다. 첨가제는 기지재에 각각 0.1wt%, 0.3wt%, 0.5wt%",
+"의 비율로 첨가했고, 분산이 완료된 수지를 사용하여 복합",2.3 기계적 물성 평가
+재료를 제조하였다. Fig. 3은 3 Roll Mill 장비의 작동 계략도,"먼저, 추출한 해초 셀룰로오스의 성분을 확인하기 위해"
+를 나타내었다.,Fourier Transform Infrared spectroscopy(FT-IR) 분석과 X-
+"복합재료 제조 공정에는 다양한 방법이 있는데, 본 연구","Ray Diffraction (XRD) 분석을 실시하여, 가지고 있는 결합"
+에서는 핸드-레이업(Hand-Layup) 공정을 사용했다. 이 공,구조와 결정성을 확인했다. 그리고 해초 셀룰로오스 섬유
+법은 VARTM(Vacuum Assisted Resin Transfer Molding) 공,와 CNF의 첨가가 천연섬유 복합재료의 기계적 물성에 끼
+"",치는 영향을 확인하기 위해 기계적 물성평가를 진행하였
+"","다. 진행한 물성시험은 인장시험(Tensile test), 전단시험(Shear"
+"","test), 3점 굽힘시험(3 Point Bending test), 낙추 충격 시험"
+"",(Drop-weight impact test)를 진행하였다.
+"",3. 연구 결과
+"","3.1 FT-IR, XRD 분석"
+"",Fig. 5는 추출전의 해초와 추출된 해초 셀룰로오스의 Fourier
+"",Transform Infrared spectroscopy 성분 분석 결과 그래프이다.
+Fig. 3. Conceptual diagram of 3 Roll mill,"Wavenumber 3448, 1639, 673에서 Intensity가 크게 증가한 것"
+216,"Jae-Cheol Kim, Dong-Woo Lee, M.N. Prabhakar, Jung-Il Song"
+Comparison of the Seaweed and Seaweed Cellulose byFig. 5.,Fig. 7. Stress-Strain curve of the prepared composites
+FT-IR,
+"","Fig. 8. Tensile properties of the prepared composites "
+Comparison of the Seaweed and Seaweed Cellulose byFig. 6.,이 감소하는 경향을 나타냈다. 첨가제를 첨가하지 않고 제
+"XRD ",
+"","조한 복합재료의 평균 인장강도는 약 36MPa이지만, SW를"
+"",첨가할 경우 최대 44MPa까지 향상했다. 탄성계수의 경우
+"을 볼 수 있는데, 이는 셀룰로오스의 특성을 나타내는 –OH",첨가제의 첨가 비율이 증가할수록 증가하는 경향을 나타
+결합의 강도가 증가한 것을 알 수 있다. 이는 셀룰로오스 추,"내었다. CNF를 첨가한 경우에도, 해초 셀룰로오스를 첨가"
+출과정에서 불순물이 제거되고 셀룰로오스 비율이 향상된,한 경우와 마찬가지로 기존 복합재료 인장강도보다 향상
+것을 의미한다.,"했으며, 0.3%에서 가장 높은 강도를 나타내었다. 탄성계수"
+Fig. 6은 추출전의 해초와 추출된 해초 셀룰로오스의 X-,
+"",는 첨가제를 0.1% 첨가하였을 때 향상했지만 첨가 비율이
+Ray Diffraction 성분 분석 결과 그래프이다. 추출한 해초 셀,"늘어날수록 점점 감소하는 경향이 나타났고, 0.5%에서는"
+룰로오스 결과에서 굴절 각도가 22o 때 피크점이 생긴 것,오히려 기존보다 더 떨어지는것을 확인할 수 있었다.
+을 확인할 수 있었다. 날카로운 피크점이 발견되었다는 것,
+"은 결정성이 올라간 것을 의미하며, 22o에서의 피크점은 셀",3.3 전단 거동
+"룰로오스의 존재를 나타내는 특성이다. ",Fig. 9와 Fig. 10은 SW와 CNF 첨가제를 사용한 복합재료
+"",의 전단 거동을 나타낸 그래프이다. 첨가제를 첨가하지 않
+3.2 인장 거동,은 복합재료보다 SW를 첨가한 복합재의 전단 강도와 전단
+Fig. 7과 Fig. 8은 SW와 CNF를 첨가하여 제조한 천연섬유,탄성계수가 향상한 것을 확인했다. 전단 강도는 인장강도
+복합재료의 인장거동을 나타낸 그래프이다. SW를 첨가했,"와 비슷한 경향을 나타냈는데, 기존 복합재의 전단 강도는"
+"을 때, 첨가하지 않은 복합재료보다 인장강도와 탄성계수","약 8MPa의 강도를 가지지만, SW 0.3wt.% 첨가할 시 최대"
+"가 향상했다. 인장강도의 경우, 0.3wt.% 첨가하였을 때 강",9.2MPa까지 향상했다.하지만 0.5wt.%에서는 강도가
+"도가 가장 높았으며, 0.3wt.%보다 더 많이 첨가할 시 물성",0.3wt.%보다 약간 하락했기에 0.3wt.% 이상의 첨가제는 강
+A Study on the Fabrication and Mechanical Properties Evaluation of Natural Fiber Composites added Eco-friendly Materials,217
+Fig. 9. Shear behavior of the prepared composites," Bending behavior of the prepared compositesFig. 11."
+"Fig. 10. Shear properties of the prepared composites ","Bending properties of the prepared composites Fig. 12. "
+도가 점점 하락할 것이라고 생각된다. 전단탄성계수의 경,"가졌지만, 해초 셀룰로오스 첨가제 0.5wt.%를 첨가했을 때"
+"우, 기존 복합재에 비하여 약간 상승하였으나 큰 차이는 나",는 약 4.8mm까지 하중을 견뎠다. CNF를 첨가제로 사용한
+"타나지 않았다. CNF를 첨가한 경우, 앞서 언급한 해초 셀","경우, 해초 셀룰로오스와 비슷한 경향으로 굽힘 물성이 향"
+룰로오스를 첨가한 복합재에 대비해 전단 강도가 더 많이,"상했으며, 마찬가지로 0.3wt.%에서 가장 물성이 높게 측정"
+"상승하였으며 전단 계수 또한, 크게 상승했다. 최고 강도는","되었다. 첨가제를 0.1wt.% 첨가했을 때, 균열 진전을 저지"
+"마찬가지로 0.3wt.%에서 측정됐으며, 10.8MPa까지 향상했","하는 현상이 발견되지 않았지만, 0.3wt.% 이상부터 균열을"
+다. 인장강도와 비슷한 경향으로 0.5wt.%에서 물성이 0.3wt.%,
+"",저지하는 현상이 나타났다. 이에 따라 첨가제 첨가 비율이
+"보다 하락하는 것을 보아, 많은 첨가제는 오히려 물성을 저",증가할수록 파단 변위는 증가했다.
+하시키는 것으로 판단된다.,
+"",3.5 충격 거동
+3.4 굽힘 거동,Fig. 13은 SW와 CNF 첨가제를 사용한 복합재료의 낙추
+Fig. 11과 Fig. 12는 SW와 CNF를 첨가제로 사용하여 제조,충격시험 결과를 시간에 따른 하중의 변화로 나타낸 그래
+한 천연섬유 복합재의 3점 굽힘 시험의 결과 값을 그래프,프이다. 최대 충격하중은 3.8 kN으로 첨가제를 첨가하지 않
+로 나타낸 것이다. SW를 첨가한 복합재료의 굽힘 강도가,은 복합재료보다 높은 충격하중을 보였다. 기존 복합재의
+기존 복합재료의 굽힘 강도보다 높은 물성을 나타냈다. 굽,"충격거동을 보면, 충격 직후 하중이 점점 상승하다가 최고"
+힘 시험도 마찬가지로 0.3wt.%에서 물성이 가장 높았으,점에서 급격히 떨어지는 것을 보여준다. 이는 충격시 균열
+"며, 첨가제를 0.3wt.% 이상의 비율로 첨가하면 물성이 감",진전에 대한 저항이 낮아 에너지를 충분히 흡수하지 못하
+소했다. 하지만 첨가제가 첨가될수록 파단 변위는 증가했,고 파손이 빨리 진행된 것을 의미한다. 반면에 SW와 CNF
+"으며, 0.5%wt.의 비율일 때 크게 증가한 것을 확인했다. 첨","를 첨가한 복합재료의 경우 더 높은 충격하중을 가지며, 최"
+가제를 넣지 않은 복합재는 평균 약 4mm의 파단 변위를,고점 이후 하중을 유지하면서 서서히 떨어지는 것을 나타
+"218Jae-Cheol Kim, Dong-Woo Lee, M.N. Prabhakar, Jung-Il Song"
+Fig. 13. Impact behavior under low velocity impact loading
+"Fig. 15. Fracture surface of (a) JFRP, and (b) with particle "
+"Fig. 14. Absorbed energy under low velocity impact loading "
+낸다. 이는 첨가제가 충격에 의한 균열진전을 지연시키는
+효과가 있음을 의미한다. Fig. 14는 시간에 따른 흡수에너
+지를 나타낸 그래프이다. 해초 셀룰로오스와 CNF 둘 다 0.3%
+첨가했을 때 가장 높은 충격하중을 가진 만큼 충격 에너지
+"또한 가장 높게 측정되었으며, 그에 따른 흡수에너지도 가"
+장 높게 나타났다.
+3.6 파단면 분석
+Fig. 15는 첨가제를 첨가하지 않은 황마섬유 강화 복합재,"Fig. 16. Impact damage behavior: (a) JFRP and (b) with particle "
+"료(Jute fabric-reinforced plastic, JFRP) 시편의 파단면과 첨가",
+제를 첨가한 시편의 파단면을 주사 전자현미경을 통해 촬,"미지에서 보이는 바와 같이, 첨가제를 첨가하지 않은 황마"
+"영한 사진이다. 첨가제를 첨가하지 않은 경우(Fig. 15(a)), 황","섬유의 표면은 매우 매끄러운 형상을 나타낸다. 반면에, 첨"
+마섬유가 뽑힌 자국(Fiber Pullout)현상이 다수 관찰되었으,가제를 첨가한 황마 섬유의 표면은 첨가제가 섬유표면에
+"며, 이는 친수성인 천연섬유와 소수성인 수지의 계면접착","부착되어 표면 거칠기가 증가하였으며, 이로 인해 계면접"
+"력 약화로 인해 발생하는 현상이다. 반면에, 첨가제를 첨가",착강도 또는 계면전단강도의 상승에 영향을 주었을 것으
+한 경우(Fig. 15(b)) 황마섬유와 수지가 함께 파단된 현상이,"로 판단된다. "
+많았다. 이는 섬유와 기지재간의 계면 접착력이 향상되었,Fig. 16은 낙추충격시험을 진행한 시편의 단면이다. 첨가
+"기 때인 것으로 예상되며, 이에 따라 기계적 물성 강도가 향","제를 첨가하지 않은 시편의 경우, 충격을 받았을 때, 시편"
+상한 것으로 판단된다. 물성향상의 메커니즘은 고배율 이,"아랫부분에서 터져나간 형상을 나타내고 있으며, 이는 충"
+A Study on the Fabrication and Mechanical Properties Evaluation of Natural Fiber Composites added Eco-friendly Materials,219
+격에너지를 흡수하지 못한 것으로 판단된다. 반면에 첨가,기후
+"제를 첨가한 시편의 경우, 충격을 받았을 때 한번에 터져나",
+가지 않고 점진적으로 균열이 진전하면서 파단된 것을 확,이 논문은 2019년도 정부(미래창조과학부)의 재원으로
+인했다. 이는 충격에너지가 첨가제로 분산되어 균열이 진,한국연구재단의 지원을 받아 수행된 연구임(No.
+전하면서 에너지를 흡수한 것으로 판단된다.,2018R1A6A1A03024509).
+4. 결론,
+"",REFERENCES
+본 연구에서는 차세대 소재로써 연구가 활발한 나노셀,"Law, K.L., and Thompson, R.C., “Microplastics in the Seas,” Sci-1."
+룰로오스섬유를 경제적이면서 친환경적으로 대체하고자,"ence, Vol. 345, No. 6193, 2014, pp. 144-145."
+해초로부터 셀룰로오스를 추출한 뒤 복합재료의 제조 및,"Fahrenkamp-Uppenbrink, J., “Seas are Awash with Microplas-2.tics,” Science, Vol. 345, No. 6193, 2014, pp. 175-177."
+기계적 특성평가를 수행하였다. 해초에서 추출한 첨가제는,"Vignieri, S., “Microplastic's Triple Threat,” Science, Vol. 352, No.3."
+FT-IR과 XRD 성분 분석결과에서 셀룰로오스 특성을 가지,"6290, 2016, p. 1185."
+"는 것을 확인할 수 있었으며, 이를 첨가하여 제조한 복합재","Lee, J., and Pai, C., “Trends of Environment-friendly Bioplas-4."
+료의 강도가 기존의 복합재료보다 기계적 물성이 향상한,"tics,” Applied Chemistry for Engineering, Vol. 27, No. 3, 2016,"
+"것을 확인할 수 있었다. 인장, 굽힘, 전단, 충격 등 다양한 기",pp.245-251.
+"","Mohan,K.,andRajmohan,T.,“EffectsofMWCNTon5."
+계적 시험에서 첨가제가 물성향상에 효과적임을 확인할 수,MechanicalPropertiesofGlass-FlaxFiberReinforcedNano
+"있었으며, 일부 물성은 상용 나노셀룰로오스에 준하는 성","Composites,” Materials Today: Proceedings, Vol. 5, No. 5, 2018,"
+"능을 보였다. 따라서 CNF를 첨가제로 사용했을 때, 직접 추",pp.11628-11635.
+출한 해초 셀룰로오스 첨가제보다 더 높은 물성을 얻을 수,"Lee, D.W., Park, B.J., and Song, J.I., “A Study on Fibre Resis-6."
+"있었지만, 가격 측면과 생산성을 봤을 때 해초 셀룰로오스","tance of Abaca/Vinyl-ester Composites,” Composites Research,"
+"의 응용 가능성을 확인할 수 있었다. ","Vol. 30, No. 1, 2017, pp. 59-64.Lee, D.W., Park, B.J., Song, J.I., Park, S.-Y., and Choi, C.-H.,7."
+본 연구를 통하여 개발된 해초 셀룰로오스는 천연섬유,“Fabrication of High-Stiffness Fiber Metal Laminates and Study
+복합재료의 물성 향상에 효과가 있을 뿐만 아니라 친환경,"of Their Behavior Under Low-Velocity impact Loadings,” Com-"
+"성 및 경제성을 가지고 있어, 후속연구를 통하여 다양한 분","posite Structures, Vol. 189, 2018, pp. 61-69."
+야에 적용할 수 있을 것이라 기대된다.,"Kim, J.C., Lee, D.W., and Song, J.I., “Investigation of the Effect8."
+"",of Seaweed Nanofibers in Jute Fiber-reinforced Composites as
+"","an Additive,” Composites Research, Vol. 31, No. 6, 2018, pp. 398-"
+"","403. "
